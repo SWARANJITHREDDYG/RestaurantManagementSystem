@@ -1,8 +1,3 @@
-Here is a **professional README.md** for your project based on your actual code structure and features (Customer, Menu, Order, JDBC connection, console system).
-
-You can copy-paste this directly into your `README.md`.
-
----
 
 # 🍽️ Restaurant Management System (JDBC + MySQL)
 
